@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.numbers {
+
+    border: 2px solid rgb(33, 31, 31);
+    border-radius: 5%;
+    margin: 1%;
+    font-size: 50px;
+    padding: 2%;
+    border-top: none;
+    border-bottom: none;
+    width: 50px;
+}
+.clock {
+    border: 2px solid rgb(33, 31, 31);
+    border-radius: 5%;
+    margin: 1%;
+    font-size: 50px;
+    padding: 2%;
+    border-top: none;
+    border-bottom: none;
+}
